@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Smugpng
-- 👀 I'm an Aspiring Tech/Game Designer
-- 🌱 I’m currently learning how to use Blueprints, and making projects in Unity!
+- 👀 I'm an Aspiring Technical Game Designer and Programmer
+- 🌱 I’m currently making games using Unity and Unreal!
 
 
 <!---
