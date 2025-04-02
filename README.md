@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Smugpng
-- 👀 I'm an Aspiring Technical Game Designer and Programmer
+- 👀 I'm an Technical Game Designer and Programmer
 - 🌱 I’m currently making games using Unity and Unreal!
 
 
